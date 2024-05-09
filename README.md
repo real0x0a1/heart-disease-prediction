@@ -56,6 +56,8 @@ The dataset (`data.csv`) contains the following columns:
 
 This project is inspired by the work on heart disease prediction and utilizes the dataset from the UCI Machine Learning Repository.
 
----
-
 Feel free to customize this template according to your project specifics and preferences!
+
+## Author
+
+
