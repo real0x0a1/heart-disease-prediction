@@ -29,7 +29,7 @@ X_train, X_test, Y_train, Y_test = train_test_split(X, Y, test_size=0.2, stratif
 # create a Logistic Regression model
 model = LogisticRegression()
 
-# training the LogisticRegression model with Training data
+# train the Logistic Regression model with the training data
 model.fit(X_train, Y_train)
 
 # accuracy on training data
