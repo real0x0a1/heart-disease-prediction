@@ -60,7 +60,7 @@ input_data = (63,   # age
               2     # thal
             )
 
-# change the input data to a numpy array
+# convert the input data to a numpy array
 input_data_as_numpy_array= np.asarray(input_data)
 
 # reshape the numpy array as we are predicting for only on instance
