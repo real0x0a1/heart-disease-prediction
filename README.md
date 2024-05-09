@@ -2,7 +2,7 @@
 
 This project aims to predict the presence of heart disease based on various medical attributes of an individual. It utilizes a logistic regression model trained on a dataset containing information about patients and whether they have heart disease or not.
 
-## **Requirements
+## **Requirements**
 
 - Python 3.x
 - NumPy
