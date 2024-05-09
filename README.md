@@ -23,7 +23,7 @@ git clone https://github.com/real0x0a1/heart-disease-prediction.git
 pip install -r requirements.txt
 ```
 
-## Usage
+## **Usage**
 
 1. Ensure you have the dataset `data.csv` in the `content` directory.
 2. Run the script `heart_disease_prediction.py`:
