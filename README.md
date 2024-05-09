@@ -52,7 +52,7 @@ The dataset (`data.csv`) contains the following columns:
 - `thal`: Thalassemia (1-3)
 - `target`: Presence of heart disease (0: no, 1: yes)
 
-## Acknowledgments
+## **Acknowledgments**
 
 This project is inspired by the work on heart disease prediction and utilizes the dataset from the UCI Machine Learning Repository.
 
