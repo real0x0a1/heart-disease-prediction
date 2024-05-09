@@ -9,7 +9,7 @@ This project aims to predict the presence of heart disease based on various medi
 - Pandas
 - scikit-learn
 
-## Installation
+## **Installation**
 
 1. Clone the repository:
 
