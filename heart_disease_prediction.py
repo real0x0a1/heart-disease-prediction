@@ -1,5 +1,6 @@
 #!/bin/python3
 
+# -*- Author: Ali  -*-
 
 
 import numpy as np
