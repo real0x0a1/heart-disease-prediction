@@ -26,6 +26,7 @@ Y = heart_data['target']
 X_train, X_test, Y_train, Y_test = train_test_split(X, Y, test_size=0.2, stratify=Y, random_state=2)
 
 
+# create a Logistic Regression model
 model = LogisticRegression()
 
 # training the LogisticRegression model with Training data
