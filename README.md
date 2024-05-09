@@ -34,7 +34,7 @@ python heart_disease_prediction.py
 
 3. The script will train a logistic regression model, evaluate its accuracy on training and test data, and make predictions for a sample input data.
 
-## Dataset
+## **Dataset**
 
 The dataset (`data.csv`) contains the following columns:
 
