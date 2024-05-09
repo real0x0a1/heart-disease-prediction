@@ -15,7 +15,7 @@ from sklearn.metrics import accuracy_score
 # loading the csv data to a Pandas DataFrame
 heart_data = pd.read_csv('./content/data.csv')
 
-# checking the distribution of Target Variable
+# check the distribution of the Target Variable (heart disease presence)
 heart_data['target'].value_counts()
 
 X = heart_data.drop(columns='target', axis=1)
