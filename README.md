@@ -29,7 +29,7 @@ pip install -r requirements.txt
 2. Run the script `heart_disease_prediction.py`:
 
 ```bash
-python heart_disease_prediction.py
+python3 heart_disease_prediction.py
 ```
 
 3. The script will train a logistic regression model, evaluate its accuracy on training and test data, and make predictions for a sample input data.
