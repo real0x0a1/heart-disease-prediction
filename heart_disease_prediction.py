@@ -32,7 +32,7 @@ model = LogisticRegression()
 # train the Logistic Regression model with the training data
 model.fit(X_train, Y_train)
 
-# accuracy on training data
+# evaluate the model's accuracy on the training data
 X_train_prediction = model.predict(X_train)
 training_data_accuracy = accuracy_score(X_train_prediction, Y_train)
 
