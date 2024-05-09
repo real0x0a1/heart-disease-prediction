@@ -20,7 +20,7 @@ git clone https://github.com/real0x0a1/heart-disease-prediction.git
 2. Install dependencies:
 
 ```bash
-pip install -r requirements.txt
+pip3 install -r requirements.txt
 ```
 
 ## **Usage**
