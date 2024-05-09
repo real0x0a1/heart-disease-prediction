@@ -51,8 +51,8 @@ input_data = (63,   # age
               0,    # exang
               3.6,  # oldpeak
               0,    # slope
-              2,    # thal
-              2     # target
+              2,    # ca
+              2     # thal
             )
 
 # change the input data to a numpy array
