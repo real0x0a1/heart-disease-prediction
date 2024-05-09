@@ -39,9 +39,9 @@ test_data_accuracy = accuracy_score(X_test_prediction, Y_test)
 
 print('Accuracy on Test data : ', test_data_accuracy)
 
-input_data = (62,   # age
-              0,    # sex
-              0,    # cp
+input_data = (63,   # age
+              1,    # sex
+              3,    # cp
               140,  # trestbps
               268,  # chol
               0,    # fbs
