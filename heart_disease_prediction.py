@@ -1,7 +1,7 @@
 #!/bin/python3
 
 # -*- Author: real0x0a1 (Ali) -*-
-# -*- File -*-
+# -*- File: -*-
 
 import numpy as np
 import pandas as pd
