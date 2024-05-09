@@ -66,6 +66,7 @@ input_data_as_numpy_array= np.asarray(input_data)
 # reshape the numpy array as we are predicting for only one instance
 input_data_reshaped = input_data_as_numpy_array.reshape(1,-1)
 
+# make a prediction using the trained model
 prediction = model.predict(input_data_reshaped)
 print(prediction)
 
