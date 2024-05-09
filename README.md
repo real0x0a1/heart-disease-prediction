@@ -58,7 +58,7 @@ This project is inspired by the work on heart disease prediction and utilizes th
 
 Feel free to customize this template according to your project specifics and preferences!
 
-## Author
+## **Author**
 
 real0x0a1 (Ali)
 
