@@ -18,6 +18,7 @@ heart_data = pd.read_csv('./content/data.csv')
 # check the distribution of the Target Variable (heart disease presence)
 heart_data['target'].value_counts()
 
+# separate the features (X) from the target variable (Y)
 X = heart_data.drop(columns='target', axis=1)
 Y = heart_data['target']
 
