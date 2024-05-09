@@ -44,6 +44,7 @@ test_data_accuracy = accuracy_score(X_test_prediction, Y_test)
 
 print('Accuracy on Test data : ', test_data_accuracy)
 
+# input data for prediction (replace with your own values)
 input_data = (63,   # age
               1,    # sex
               3,    # cp
