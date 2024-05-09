@@ -33,7 +33,20 @@ test_data_accuracy = accuracy_score(X_test_prediction, Y_test)
 
 print('Accuracy on Test data : ', test_data_accuracy)
 
-input_data = (62,0,0,140,268,0,0,160,0,3.6,0,2,2)
+input_data = (62,   # age
+              0,    # sex
+              0,    # cp
+              140,  # trestbps
+              268,  # chol
+              0,    # fbs
+              0,    # restecg
+              160,  # thalach
+              0,    # exang
+              3.6,  # oldpeak
+              0,    # slope
+              2,    # thal
+              2     # target
+            )
 
 # change the input data to a numpy array
 input_data_as_numpy_array= np.asarray(input_data)
